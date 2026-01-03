@@ -15,7 +15,7 @@ CONFIG = {
     "lr": 1e-4,
     "weight_decay": 0.0,
     "warmup_steps": 200,
-    "epochs": 100,
+    "epochs": 20,
     "eval_every": 200,
     "seed": 0,
     "n_layer": 4,
