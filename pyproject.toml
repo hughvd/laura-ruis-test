@@ -5,11 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "huggingface>=0.0.1",
     "numpy>=2.4.0",
     "pandas>=2.3.3",
     "torch>=2.9.1",
     "transformers>=4.57.3",
-    "wand>=0.6.13",
     "wandb>=0.23.1",
 ]

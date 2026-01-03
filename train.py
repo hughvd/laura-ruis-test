@@ -379,7 +379,6 @@ def train(cfg: Dict):
                 out["split"] = split_name
                 out["pred"] = pred_str
                 results.append(out)
-            idx += len(batch_records)
 
     results_path = data_dir / "results_raw.jsonl"
     with results_path.open("w") as f:
