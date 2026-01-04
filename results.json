@@ -1,0 +1,18 @@
+{
+  "test_4digit": {
+    "exact_match": 0.0,
+    "fuzzy_match": 0.0
+  },
+  "test_holdout_a": {
+    "exact_match": 1.0,
+    "fuzzy_match": 1.0
+  },
+  "test_leading_zero": {
+    "exact_match": 0.0,
+    "fuzzy_match": 1.0
+  },
+  "val": {
+    "exact_match": 1.0,
+    "fuzzy_match": 1.0
+  }
+}
